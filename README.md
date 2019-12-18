@@ -1,7 +1,7 @@
 # sholat
 jadwal sholat khusus jakarta, hitung secara tepat kapan dan sudah lewat berapa menit sholat kamu
 
-# jadwal sholat 
+# data jadwal sholat 
 diambil dari kemenag.go.id buat widgetnya lalu ganti target curl
 
 # update jadwal 
