@@ -2,7 +2,7 @@
 jadwal sholat khusus jakarta, hitung secara tepat kapan dan sudah lewat berapa menit sholat kamu
 
 # data jadwal sholat 
-diambil dari kemenag.go.id buat widgetnya lalu ganti target curl
+diambil dari kemenag.go.id, skrip hanya untuk JAKARTA, kalo mau wilayah lain buat dan ganti url widgetnya pada bagian curl
 
 # update jadwal 
 bash sholat.sh update
